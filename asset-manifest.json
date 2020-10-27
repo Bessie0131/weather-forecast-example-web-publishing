@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-forecast-example-web-publishing/static/css/main.1bf83596.chunk.css",
+    "main.js": "/weather-forecast-example-web-publishing/static/js/main.b7d853bc.chunk.js",
+    "main.js.map": "/weather-forecast-example-web-publishing/static/js/main.b7d853bc.chunk.js.map",
+    "runtime-main.js": "/weather-forecast-example-web-publishing/static/js/runtime-main.43017aaa.js",
+    "runtime-main.js.map": "/weather-forecast-example-web-publishing/static/js/runtime-main.43017aaa.js.map",
+    "static/js/2.f5df116d.chunk.js": "/weather-forecast-example-web-publishing/static/js/2.f5df116d.chunk.js",
+    "static/js/2.f5df116d.chunk.js.map": "/weather-forecast-example-web-publishing/static/js/2.f5df116d.chunk.js.map",
+    "index.html": "/weather-forecast-example-web-publishing/index.html",
+    "precache-manifest.1e9f326f6bc6c85338eea4327257b8f6.js": "/weather-forecast-example-web-publishing/precache-manifest.1e9f326f6bc6c85338eea4327257b8f6.js",
+    "service-worker.js": "/weather-forecast-example-web-publishing/service-worker.js",
+    "static/css/main.1bf83596.chunk.css.map": "/weather-forecast-example-web-publishing/static/css/main.1bf83596.chunk.css.map",
+    "static/js/2.f5df116d.chunk.js.LICENSE.txt": "/weather-forecast-example-web-publishing/static/js/2.f5df116d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/weather-forecast-example-web-publishing/static/media/vineyard.e78d3d05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43017aaa.js",
+    "static/js/2.f5df116d.chunk.js",
+    "static/css/main.1bf83596.chunk.css",
+    "static/js/main.b7d853bc.chunk.js"
+  ]
+}
